@@ -18,6 +18,8 @@ gem 'puma', '~> 3.11'
 
 gem 'devise'
 
+gem 'simple_token_authentication', '~> 1.0'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
